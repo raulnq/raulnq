@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: .
 
 https://github.com/anuraghazra/github-readme-stats
 https://devicon.dev/
@@ -20,6 +20,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 -->
      
 <div align="center">
+  <a href="https://github.com/raulnq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulnq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulnq&layout=compact&langs_count=7&theme=dark"/>
 </div>
